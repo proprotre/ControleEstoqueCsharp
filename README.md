@@ -1,12 +1,10 @@
-# ControleEstoqueCsharp
-
 # Sistema de controle de estoque C# c/ interface gráfica
 C#
 Windows Form
 Entity Framework Core
 SQLite
 
-![image](/Controle+de+Estoque+CSharp.png "Sistema")
+![image](/Sistema.png "Sistema")
 
 
 ## Caminho do executável
