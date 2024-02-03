@@ -9,3 +9,6 @@
 
 ## Caminho do executável
 "Controle de Estoque CSharp/bin/Debug/net6.0-windows/Controle de Estoque CSharp.exe"
+
+## Autor
+Gabriel Badaró
